@@ -8,5 +8,5 @@ Author: Oliver Keyes [aut, cre], Alex Bellos [cph]
 Maintainer: Oliver Keyes <ironholds@gmail.com>
 Description: A dataset of favourite numbers, selected from an online poll of over 30,000 people by Alex Bellos
              (http://pages.bloomsbury.com/favouritenumber).
-License: CC-0 + file LICENSE
+License: CC0
 LazyData: true
