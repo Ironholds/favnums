@@ -9,4 +9,6 @@ Maintainer: Oliver Keyes <ironholds@gmail.com>
 Description: A dataset of favourite numbers, selected from an online poll of over 30,000 people by Alex Bellos
              (http://pages.bloomsbury.com/favouritenumber).
 License: CC0
+URL: https://github.com/ironholds/favnums/
+BugReports: https://github.com/ironholds/favnums/issues
 LazyData: true
